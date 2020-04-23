@@ -1,0 +1,54 @@
+﻿body
+{
+	margin-left: 40px;
+	background-color: #d4f3ff;
+}
+#imatge
+{
+	margin-bottom: -50px;
+}
+#contra
+{
+    margin-left: 492px;
+    border-radius: 12px;
+    border: none;
+    text-align: center;
+    padding: 15px 32px;
+}
+#valid
+{
+    margin-left: 480px;
+    color: #644832;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+#invalid
+{
+    margin-left: 500px;
+	color: #644832;
+    font-style: helvetica;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+#btnIniciar
+{
+    margin-left: 546px;
+    border-radius: 12px;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+#btnEndavant
+{
+    margin-left: 470px;
+    border-radius: 12px;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
